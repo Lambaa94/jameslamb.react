@@ -1,0 +1,35 @@
+/* custom css */
+
+/* Background from Subtle Patterns */
+body { 
+    background-image: url("../assets/images/crossline-dots.png");
+}
+
+ {
+    border: 3px;
+    border: solid;
+    color: #1A2A43;
+}
+
+footer { 
+    background-color: #343A40;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    color: cornsilk;
+    
+}
+
+a { 
+    color: aqua;
+}
+
+main {
+    background-color: inherit
+
+}
+
+.navbar-dark {
+    border-color: none;
+}
+
