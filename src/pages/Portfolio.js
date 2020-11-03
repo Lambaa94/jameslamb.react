@@ -9,7 +9,7 @@ function Portfolio() {
         <main className="container mt-5 pt-2 pb-5 mb-5 pr-5 pl-5 rounded">
             <Row>
             {/* <!-- Portfolio heading --> */}
-            <Col>
+            <Col sm={12} md={6} lg={6}>
             <header className="col-12 mt-5 pt-2 pb-5 mb-5 border-bottom border-primary d-flex">
                 <h1>Portfolio</h1>
             </header>
