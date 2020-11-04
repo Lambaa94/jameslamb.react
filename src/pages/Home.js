@@ -5,7 +5,7 @@ import {Container, Row, Col} from "reactstrap";
 import Summary from "../components/Summary";
 import Wumbotron from "../components/Jumbotron";
 import Wrapper from "../components/Wrapper";
-
+import Skills from "../components/Skills";
 
 function Home() {
     return (
@@ -15,6 +15,14 @@ function Home() {
                 <Wumbotron />
             </Col>
         </Row>
+        <Row>
+            <Col> 
+            <Skills />
+            </Col>
+
+        </Row>
+
+
         <Row>
             <Col>
                 <Summary/>
