@@ -1,0 +1,13 @@
+.nav-item > .active {
+    border-bottom: 1px solid #333;
+    color: white;
+}
+.nav-item {
+    color: white;
+
+}
+
+.nav-item:hover {
+    border-bottom: 1px solid whitesmoke;
+    cursor: pointer;
+}

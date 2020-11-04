@@ -1,13 +1,12 @@
 import React from "react";
-import {Link, useLocation} from "react-router-dom";
-
-
+import { Link, animateScroll as scroll } from "react-scroll";
+import "./style.css";
 
 function Navbar() {
-    const location = useLocation();
+    
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-            <a className="navbar-brand nav-link" href="#about" >James Lamb</a>
+            <a className="navbar-brand">James Lamb</a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="fas fa-hamburger fa-2x"></span>
@@ -15,13 +14,43 @@ function Navbar() {
             <div className="collapse navbar-collapse nav justify-content-end" id="navbarNav">
                 <ul className="navbar-nav">
                     <li className="nav-item">
-                        <a to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>About</a>
+                        <Link
+                        activeClass="active"
+                        to="skills"
+                        spy={true}
+                        smooth={true}
+                        offset={-70}
+                        duration={500}
+                      >
+                        Skills
+                      </Link>
+                    
                     </li>
                     <li className="nav-item">
-                        <a to="/portfolio" className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>Portfolio</a>
+                    <Link
+                activeClass="active"
+                to="about"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+              >
+                About Me
+              </Link>
+                    
                     </li>
                     <li className="nav-item">
-                        <a to="contact" className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}>Contact</a>
+                    <Link
+                activeClass="active"
+                to="portfolio"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+              >
+                Portfolio
+              </Link>
+                    
                     </li>
                 </ul>
             </div>

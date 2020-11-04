@@ -1,5 +1,5 @@
 import React from "react";
-import {Col, Row, Container} from "reactstrap";
+import {Col, Row, Container, Button} from "reactstrap";
 import "./style.css"
 
 
@@ -33,11 +33,11 @@ function Project(props) {
 
         <Row>
             <Col>
-            <a target="_blank" href={props.githubRepo}><button className="repoBtn">To the Repo</button></a>
+            <a target="_blank" href={props.githubRepo}><Button color="info" className="repoBtn">To the Repo</Button></a>
             </Col>
             <Col>
             <a target="_blank" href={props.url}>
-            <button className="linkBtn">To The App</button>
+            <Button color="success" className="linkBtn">To The App</Button>
             </a>
             </Col>
         </Row>

@@ -5,9 +5,9 @@ h2 {
 
 button {
     width: 100%;
-    
+    box-shadow: 2px 6px slategray;
 }
 
-/* a {
-    width: auto;
-} */
+button:hover {
+    box-shadow: 6px 11px slategray;
+}
