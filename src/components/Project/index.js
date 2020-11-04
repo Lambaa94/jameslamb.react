@@ -3,19 +3,11 @@ import {Col, Row, Container} from "reactstrap";
 import "./style.css"
 
 
+
 function Project(props) {
 
 
-//     handleLinkClick = event => {
-//     event.preventDefault();
-// }
 
-//     handleRepoClick = event => {
-//     event.preventDefault();
-
-//     }
-
-   
     return (
         <Container>
             
@@ -29,11 +21,28 @@ function Project(props) {
     <h2>{props.title}</h2>
     <br />
     <br />
-            <Row>
-            <button onClick={() => this.handleBtnClick} className="repoBtn" src={props.githubRepo}>To the Repo</button> <button className="linkBtn">To The App</button>
-            </Row>
+        <Row>
+            <Col>
+    <h5>{props.description}</h5>
+    <br />
+    <br />
             </Col>
         </Row>
+                
+
+
+        <Row>
+            <Col>
+            <a target="_blank" href={props.githubRepo}><button className="repoBtn">To the Repo</button></a>
+            </Col>
+            <Col>
+            <a target="_blank" href={props.url}>
+            <button className="linkBtn">To The App</button>
+            </a>
+            </Col>
+        </Row>
+        </Col>
+    </Row>
        
         <br />
         <hr/>

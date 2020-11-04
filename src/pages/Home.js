@@ -26,7 +26,7 @@ function Home() {
         <br/>
         <h1>Portfolio</h1>
         <hr/>
-        {projects.map(project => <Project key={project.id} alt={project.alt} title={project.title} image={project.image} githubRepo={project.githubRepo} url={project.url} /> )}
+        {projects.map(project => <Project key={project.id} alt={project.alt} title={project.title} image={project.image} githubRepo={project.githubRepo} url={project.url} description={project.description} /> )}
         </Wrapper>
         <br/>
         <br/>

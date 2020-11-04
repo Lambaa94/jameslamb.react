@@ -1,12 +1,9 @@
 h2 {
     padding: 20px;
+    text-align: center
 }
 
-.linkBtn {
-    width: 150px;
-    margin: auto;
-}
-.repoBtn {
-    width: 150px;
-    margin: auto;
+button {
+    width: 100%;
+    
 }
