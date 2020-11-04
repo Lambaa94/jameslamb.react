@@ -1,11 +1,29 @@
 import React from "react";
 
+import "./style.css";
 
 
 
 function Summary() {
     return (
-        <p> Full stack web developer with a long history in   Hospitality. Recently worked in a high
+        <>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <div id="summaryP">
+        <br/>
+        <br/>
+        <h1>About Me</h1>
+        <hr/>
+        <br/>
+        <br/>
+        
+       <p> Full stack web developer with a long history in   Hospitality. Recently worked in a high
         intensity pre-theatre, fine dining restaurant dealing with large guest counts. I showed that
         I have exceptional time management skills combined with great organizational skills to keep
         my guests on time and comfortable. Being a head staff member, I would close the business on
@@ -39,7 +57,17 @@ function Summary() {
         changing and advancing at a rapid pace, and it takes someone that is quick-witted and
         competent to get things done and done right.
         </p>
-
+        <br/>
+        </div>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        </>
     )
 };
 

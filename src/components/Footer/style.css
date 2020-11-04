@@ -1,6 +1,7 @@
 footer { 
     background-color: #343A40;
     bottom: 0;
+    height: auto;
     margin: auto;
     text-align: center;
     color: cornsilk;

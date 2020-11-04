@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Brewery Finder",
+        "url": "https://lambaa94.github.io/Brewery-Finder/",
+        "image": "/assets/images/Screen Shot 2020-09-20 at 5.09.57 PM.png",
+        "alt": "Brewery Finder",
+        "githubRepo": "https://github.com/Lambaa94/Brewery-Finder"
+        
+      },
+      {
+        "id": 2,
+        "title": "Slurp-Da-Soup",
+        "url": "https://eat-da-soup.herokuapp.com/",
+        "image": "assets/images/Untitled.png",
+        "alt": "Eat-Da-Soup",
+        "githubRepo": "https://github.com/Lambaa94/Soups"
+        
+      },
+      {
+        "id": 3,
+        "title": "Stream-Saver",
+        "url": "https://streamsaver.herokuapp.com/",
+        "image": "assets/images/streamSaver.png",
+        "alt": "Stream Saver",
+        "githubRepo": "https://github.com/Lambaa94/Stream-Saver"
+        
+      },
+      {
+        "id": 4,
+        "title": "Work Day Scheduler",
+        "url": "https://lambaa94.github.io/Work-Scheduler/",
+        "image": "assets/images/Screen Shot 2020-09-19 at 12.43.49 AM.png",
+        "alt": "Work Day Scheduler",
+        "githubRepo": "https://github.com/Lambaa94/Work-Scheduler"
+        
+      },
+      {
+        "id":  5,
+        "title": "Password Generator",
+        "url": "https://lambaa94.github.io/Password-Gen/",
+        "image": "assets/images/Screen Shot 2020-09-19 at 12.47.42 AM.png",
+        "alt": "Password Generator",
+        "githubRepo": "https://github.com/Lambaa94/Password-Gen"
+        
+      },
+      {
+        "id": 6,
+        "title": "Weather Dashboard",
+        "url": "https://lambaa94.github.io/Weather-Dashboard/",
+        "image": "assets/images/Screen Shot 2020-09-19 at 12.42.30 AM.png",
+        "alt": "Weather Dashboard",
+        "githubRepo": "https://github.com/Lambaa94/Weather-Dashboard"
+        
+      },
+      {
+        "id": 7,
+        "title": "API Quiz",
+        "url": "https://lambaa94.github.io/Api-Quiz/",
+        "image": "assets/images/Screen Shot 2020-09-19 at 12.42.55 AM.png",
+        "alt": "API Quiz",
+        "githubRepo": "https://github.com/Lambaa94/Api-Quiz"
+        
+      }
+      
+
+
+]

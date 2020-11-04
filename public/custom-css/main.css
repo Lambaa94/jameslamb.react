@@ -5,10 +5,12 @@ body {
     background-image: url("../assets/images/crossline-dots.png");
 }
 
- {
-    border: 3px;
-    border: solid;
-    color: #1A2A43;
+img {
+    width: 500px;
+    height: 350px;
+    margin: 20px;
+    padding: auto;
+    vertical-align: auto;
 }
 
 footer { 

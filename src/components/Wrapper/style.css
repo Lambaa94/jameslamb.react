@@ -1,0 +1,10 @@
+.wrapper {
+    margin: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+}
