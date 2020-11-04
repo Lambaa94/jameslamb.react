@@ -17,11 +17,10 @@ function Home() {
         </Row>
         <Row>
             <Col> 
-            <Skills />
+                <Skills />
             </Col>
 
         </Row>
-
 
         <Row>
             <Col>

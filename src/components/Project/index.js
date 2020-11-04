@@ -14,7 +14,7 @@ function Project(props) {
         <Row>
             <Col>
             <div>
-                <a href={props.url}><img src={props.image} alt={props.alt}></img></a>
+                <a href={props.url}><img src={props.image} alt={props.alt} className="responsive"></img></a>
             </div>
             </Col>
             <Col>
