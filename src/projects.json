@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Brewery Finder",
         "url": "https://lambaa94.github.io/Brewery-Finder/",
-        "image": "/assets/images/Screen Shot 2020-09-20 at 5.09.57 PM.png",
+        "image": "/assets/images/Screen Shot 2020-09-20 at 5.09.57 PM.png?raw=true",
         "alt": "Brewery Finder",
         "githubRepo": "https://github.com/Lambaa94/Brewery-Finder",
         "description": "An application that will allow you to search for breweries by state and brewery type. Uses Yelp and Google maps to give you more information about that brewery."
