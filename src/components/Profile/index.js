@@ -17,7 +17,7 @@ function Profile() {
         <Container fluid>
         <Row>
 <Col>
-<img className="responsiveProfile" id="profilePic" src="/assets/images/IMG_5807.jpeg?raw=true"></img>
+<img className="responsiveProfile" id="profilePic" src={require ("/assets/images/IMG_5807.jpeg")}></img>
 <br/>
 <br/>
 </Col>
