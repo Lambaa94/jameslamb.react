@@ -4,7 +4,7 @@ import "./style.css"
 import "animate.css"
 
 
-const Wumbotron = () => {
+function Profile() {
   return (
     <div>
       <br/>  
@@ -15,20 +15,16 @@ const Wumbotron = () => {
       <br/>
       <br/>
       <br/>
-      <Jumbotron fluid id="jumbo">
+      <Jumbotron fluid id="profile">
         <Container fluid>
-          <h1 id="name" className="animate__fadeIn">James Lamb</h1>
-          <br/>
-          <br/>
-          <br/>
-          <br/>
-          <h3 id="title" className="lead">Web Developer</h3>
+        
+        <img id="profilePic" src="/assets/images/IMG_5807.jpeg"></img>
+
         </Container>
       </Jumbotron>
       <br/>
       <br/>
       <br/>
-      
       <br/>
       <br/>
     </div>
@@ -36,5 +32,9 @@ const Wumbotron = () => {
   );
 };
 
-export default Wumbotron;
+export default Profile;
+
+
+
+
 

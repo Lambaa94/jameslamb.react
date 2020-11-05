@@ -11,3 +11,7 @@ button {
 button:hover {
     box-shadow: 6px 11px slategray;
 }
+
+img {
+    box-shadow: 5px 5px 2px 2px slategray;;
+}

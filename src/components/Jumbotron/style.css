@@ -3,5 +3,14 @@
     vertical-align: center;
     text-align: center;
     width: auto;
-    background-color: whitesmoke;
+    background-color: grey;
+    
+}
+
+#name, #title {
+    color: whitesmoke;
+}
+
+#profilePic {
+    width: 180px;
 }

@@ -52,6 +52,19 @@ function Navbar() {
               </Link>
                     
                     </li>
+                    <li className="nav-item">
+                    <Link
+                activeClass="active"
+                to="contact"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+              >
+                Contact Me
+              </Link>
+
+                    </li>
                 </ul>
             </div>
         </nav>

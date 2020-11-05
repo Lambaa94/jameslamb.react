@@ -1,5 +1,6 @@
 #summaryP {
-    background-color: whitesmoke;
+    background-color: grey;
+    
     padding: auto;
     margin: auto;
     color: black;
@@ -8,3 +9,7 @@
     padding-left: 50px;
     padding-right: 50px
 }
+p, #aboutTitle {
+    color: whitesmoke;
+}
+

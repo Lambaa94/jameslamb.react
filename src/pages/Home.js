@@ -7,8 +7,8 @@ import Wumbotron from "../components/Jumbotron";
 import Wrapper from "../components/Wrapper";
 import Skills from "../components/Skills";
 import Navbar from "../components/Navbar";
-import Section from "../components/Section"
-
+import Section from "../components/Section";
+import Contact from "../components/Contact";
 function Home() {
     return (
         <>
@@ -21,9 +21,11 @@ function Home() {
         </Row>
         <Row>
             <Col> 
+            <Wrapper>
             <Section 
                 id="skills" />
             <Skills />
+            </Wrapper>
             </Col>
 
         </Row>
@@ -43,6 +45,21 @@ function Home() {
         <hr/>
         {projects.map(project => <Project key={project.id} alt={project.alt} title={project.title} image={project.image} githubRepo={project.githubRepo} url={project.url} description={project.description} /> )}
         </Wrapper>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <Wrapper>
+            <Row>
+                <Col>
+                <Section id="contact" />
+                <Contact />
+                </Col>
+            </Row>
+        </Wrapper>
+        <br/>
+        <br/>
+        <br/>
         <br/>
         <br/>
     </Container>
