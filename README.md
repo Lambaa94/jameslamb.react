@@ -21,7 +21,7 @@ This application is my portfolio that I have created with *React*. With all of t
 
 *Below is a link to the deployed application.*
 
-**
+*https://lambaa94.github.io/jameslamb.react/*
 
 ## Installation
 
