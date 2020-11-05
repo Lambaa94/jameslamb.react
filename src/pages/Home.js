@@ -10,6 +10,7 @@ import Navbar from "../components/Navbar";
 import Section from "../components/Section";
 import Contact from "../components/Contact";
 import Profile from "../components/Profile"
+
 function Home() {
     return (
         <>

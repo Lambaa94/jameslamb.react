@@ -15,7 +15,7 @@ function Skills() {
         </ul>
         <br/>
         <ul>
-            {" "}<img className="icons" src="../../assets/icons/jquery.png"></img><img className="icons" src="../../assets/icons/mongodb.png"></img><img className="icons" src="../../assets/icons/npm.png"></img>{" "}<img className="icons" src="../../assets/icons/express.png"></img>{" "}<img className="icons" src="../../assets/icons/sequelize.png"></img>
+            {" "}<img className="icons" src={process.env.PUBLIC_URL + "/assets/icons/jquery.png"}></img><img className="icons" src={process.env.PUBLIC_URL + "/assets/icons/mongodb.png"}></img><img className="icons" src={process.env.PUBLIC_URL + "/assets/icons/npm.png"}></img>{" "}<img className="icons" src={process.env.PUBLIC_URL + "/assets/icons/express.png"}></img>{" "}<img className="icons" src={process.env.PUBLIC_URL + "/assets/icons/sequelize.png"}></img>
         </ul>
         </>
     )

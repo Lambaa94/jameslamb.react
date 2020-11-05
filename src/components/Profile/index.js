@@ -17,7 +17,7 @@ function Profile() {
         <Container fluid>
         <Row>
 <Col>
-<img className="responsiveProfile" id="profilePic" src="../images/IMG_5807.jpeg"></img>
+<img className="responsiveProfile" id="profilePic" src={process.env.PUBLIC_URL + "/assets/images/IMG_5807.jpeg"}></img>
 <br/>
 <br/>
 </Col>

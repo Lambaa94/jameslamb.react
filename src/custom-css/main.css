@@ -1,8 +1,10 @@
 /* custom css */
 
 /* Background from Subtle Patterns */
+
+
 body { 
-    background-image: url("../assets/images/crossline-dots.png");
+    background-image: url("../custom-css/crossline-dots.png");
 }
 
 img {
