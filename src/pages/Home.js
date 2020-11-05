@@ -9,6 +9,7 @@ import Skills from "../components/Skills";
 import Navbar from "../components/Navbar";
 import Section from "../components/Section";
 import Contact from "../components/Contact";
+import Profile from "../components/Profile"
 function Home() {
     return (
         <>
@@ -17,6 +18,11 @@ function Home() {
         <Row>
             <Col>
                 <Wumbotron />
+            </Col>
+        </Row>
+        <Row>
+            <Col>
+            <Profile />
             </Col>
         </Row>
         <Row>

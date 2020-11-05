@@ -1,8 +1,6 @@
 import React from 'react';
-import { Jumbotron, Container } from 'reactstrap';
-import "./style.css"
-import "animate.css"
-
+import { Jumbotron, Container, Row, Col } from 'reactstrap';
+import "./style.css";
 
 function Profile() {
   return (
@@ -17,8 +15,52 @@ function Profile() {
       <br/>
       <Jumbotron fluid id="profile">
         <Container fluid>
-        
-        <img id="profilePic" src="/assets/images/IMG_5807.jpeg"></img>
+        <Row>
+<Col>
+<img className="responsiveProfile" id="profilePic" src="/assets/images/IMG_5807.jpeg"></img>
+<br/>
+<br/>
+</Col>
+<Col>
+<br/>
+<br/>
+<br/>
+<i class="fas fa-city fa-3x"><h3>Living in New York City</h3></i>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<Row>
+<Col>
+<i class="fas fa-code fa-3x"><h3>MERN Language Stack</h3></i>
+</Col>
+</Row>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<Row>
+<Col>
+<i class="fas fa-university fa-3x"><h3>University of Pennsylvania Coding Bootcamp</h3></i>
+</Col>
+</Row>
+
+
+</Col>
+
+
+
+
+    
+    
+    
+
+
+
+</Row>
+      
 
         </Container>
       </Jumbotron>
