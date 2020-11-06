@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Brewery Finder",
         "url": "https://lambaa94.github.io/Brewery-Finder/",
-        "image": "jameslamb.react/assets/images/Screen Shot 2020-09-20 at 5.09.57 PM.png",
+        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Screen%20Shot%202020-09-20%20at%205.09.57%20PM.png?raw=true",
         "alt": "Brewery Finder",
         "githubRepo": "https://github.com/Lambaa94/Brewery-Finder",
         "description": "An application that will allow you to search for breweries by state and brewery type. Uses Yelp and Google maps to give you more information about that brewery."
@@ -13,7 +13,7 @@
         "id": 2,
         "title": "Slurp-Da-Soup",
         "url": "https://eat-da-soup.herokuapp.com/",
-        "image": "jameslamb.react/assets/images/Untitled.png",
+        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Untitled.png?raw=true",
         "alt": "Eat-Da-Soup",
         "githubRepo": "https://github.com/Lambaa94/Soups",
         "description": "An application that uses a database to store information and pull information. You can type in the name of a soup and transfer the soup to slurped by a button click. Deployed on Heroku."
@@ -23,7 +23,7 @@
         "id": 3,
         "title": "Stream-Saver",
         "url": "https://streamsaver.herokuapp.com/",
-        "image": "jameslamb.react/assets/images/streamSaver.png",
+        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/screencapture-stream-saver-herokuapp-2020-10-18-23_32_55%20copy.png?raw=true",
         "alt": "Stream Saver",
         "githubRepo": "https://github.com/Lambaa94/Stream-Saver",
         "description": "An application that lets the user search and save to a watch list any show or movie they'd like to stream. Uses Express-js, MySQL, and Passport."
@@ -33,7 +33,7 @@
         "id": 4,
         "title": "Work Day Scheduler",
         "url": "https://lambaa94.github.io/Work-Scheduler/",
-        "image": "jameslamb.react/assets/images/Screen Shot 2020-09-19 at 12.43.49 AM.png",
+        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Screen%20Shot%202020-09-19%20at%2012.43.49%20AM.png?raw=true",
         "alt": "Work Day Scheduler",
         "githubRepo": "https://github.com/Lambaa94/Work-Scheduler",
         "description": "An application that is a nine to five work day scheduler that displays the current time and gives the user a visual experience on what time it is by color coding the past, present and future."
@@ -43,7 +43,7 @@
         "id":  5,
         "title": "Password Generator",
         "url": "https://lambaa94.github.io/Password-Gen/",
-        "image": "jameslamb.react/assets/images/Screen Shot 2020-09-19 at 12.47.42 AM.png",
+        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Screen%20Shot%202020-09-19%20at%2012.47.42%20AM.png?raw=true",
         "alt": "Password Generator",
         "githubRepo": "https://github.com/Lambaa94/Password-Gen",
         "description": "An application that will prompt you with a series of questions to generate a random password that is displayed on the screen."
@@ -53,7 +53,7 @@
         "id": 6,
         "title": "Weather Dashboard",
         "url": "https://lambaa94.github.io/Weather-Dashboard/",
-        "image": "jameslamb.react/assets/images/Screen Shot 2020-09-19 at 12.42.30 AM.png",
+        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Screen%20Shot%202020-09-19%20at%2012.42.30%20AM.png?raw=true",
         "alt": "Weather Dashboard",
         "githubRepo": "https://github.com/Lambaa94/Weather-Dashboard",
         "description": "An application that can take in a city and display the current weather. It will also give you the five day forecast and save searched cities in local storage."
@@ -63,7 +63,7 @@
         "id": 7,
         "title": "API Quiz",
         "url": "https://lambaa94.github.io/Api-Quiz/",
-        "image": "jameslamb.react/assets/images/Screen Shot 2020-09-19 at 12.42.55 AM.png",
+        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Screen%20Shot%202020-09-19%20at%2012.42.55%20AM.png?raw=true",
         "alt": "API Quiz",
         "githubRepo": "https://github.com/Lambaa94/Api-Quiz",
         "description": "An application that will take you through 10 questions of JavaScript trivia and will log your score in local storage with a name attached to it. The score is based on how much time you had left and questions answered right."
