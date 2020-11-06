@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/jameslamb.react/static/css/main.0324663e.chunk.css",
-    "main.js": "/jameslamb.react/static/js/main.86462762.chunk.js",
-    "main.js.map": "/jameslamb.react/static/js/main.86462762.chunk.js.map",
+    "main.js": "/jameslamb.react/static/js/main.5f7b0605.chunk.js",
+    "main.js.map": "/jameslamb.react/static/js/main.5f7b0605.chunk.js.map",
     "runtime-main.js": "/jameslamb.react/static/js/runtime-main.5cb276da.js",
     "runtime-main.js.map": "/jameslamb.react/static/js/runtime-main.5cb276da.js.map",
     "static/css/2.a1596f27.chunk.css": "/jameslamb.react/static/css/2.a1596f27.chunk.css",
-    "static/js/2.083b2331.chunk.js": "/jameslamb.react/static/js/2.083b2331.chunk.js",
-    "static/js/2.083b2331.chunk.js.map": "/jameslamb.react/static/js/2.083b2331.chunk.js.map",
+    "static/js/2.00313cbc.chunk.js": "/jameslamb.react/static/js/2.00313cbc.chunk.js",
+    "static/js/2.00313cbc.chunk.js.map": "/jameslamb.react/static/js/2.00313cbc.chunk.js.map",
     "index.html": "/jameslamb.react/index.html",
     "static/css/2.a1596f27.chunk.css.map": "/jameslamb.react/static/css/2.a1596f27.chunk.css.map",
     "static/css/main.0324663e.chunk.css.map": "/jameslamb.react/static/css/main.0324663e.chunk.css.map",
-    "static/js/2.083b2331.chunk.js.LICENSE.txt": "/jameslamb.react/static/js/2.083b2331.chunk.js.LICENSE.txt",
+    "static/js/2.00313cbc.chunk.js.LICENSE.txt": "/jameslamb.react/static/js/2.00313cbc.chunk.js.LICENSE.txt",
     "static/media/main.css": "/jameslamb.react/static/media/crossline-dots.1f3dacd5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5cb276da.js",
     "static/css/2.a1596f27.chunk.css",
-    "static/js/2.083b2331.chunk.js",
+    "static/js/2.00313cbc.chunk.js",
     "static/css/main.0324663e.chunk.css",
-    "static/js/main.86462762.chunk.js"
+    "static/js/main.5f7b0605.chunk.js"
   ]
 }
