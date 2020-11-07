@@ -1,13 +1,12 @@
 #summaryP {
-    background-color: grey;
-    
+    background-color: rgb(34, 22, 22);
     margin: auto;
     color: black;
     font-size: medium;
     font-weight: 200;
     padding-left: 50px;
     padding-right: 50px;
-    box-shadow: 10px 10px black;
+    box-shadow: 10px 10px rgb(57, 54, 54);
 }
 p, #aboutTitle {
     color: whitesmoke;

@@ -6,13 +6,18 @@
 #phone {
     text-align: center;
     padding-top: 20px;
+    color: whitesmoke;
 }
 
 #contactTitle {
     text-align: center;
     padding-top: 20px;
+    color: whitesmoke;
 }
 
 .bottomIcons {
   margin-left: 40px;
+}
+.bottomIcons:hover {
+    color: white;
 }

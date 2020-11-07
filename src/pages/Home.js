@@ -10,6 +10,8 @@ import Navbar from "../components/Navbar";
 import Section from "../components/Section";
 import Contact from "../components/Contact";
 import Profile from "../components/Profile"
+import WrapperD from "../components/WrapperD";
+
 
 function Home() {
     return (
@@ -56,14 +58,14 @@ function Home() {
         <br/>
         <br/>
         <br/>
-        <Wrapper>
+        <WrapperD>
             <Row>
                 <Col>
                 <Section id="contact" />
                 <Contact />
                 </Col>
             </Row>
-        </Wrapper>
+        </WrapperD>
         <br/>
         <br/>
         <br/>
