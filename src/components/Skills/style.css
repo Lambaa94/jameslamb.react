@@ -7,13 +7,23 @@ img.icons {
     margin: 3;
 }
 
+#skills {
+    
+}
 
-
-img.icons:hover, i:hover  {
+img.icons:hover, i:hover {
 filter: contrast(500%);
 animation: pulse; 
     animation-duration:1s;
 }
 
+.dcon {
+    font-size: 6rem;
+    
+}
 
-
+.dcon:hover {
+    filter: contrast(500%);
+    animation: pulse; 
+    animation-duration:2s;
+}
