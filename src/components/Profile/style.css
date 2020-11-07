@@ -1,9 +1,4 @@
-/* #profilePic {
-    width: 400px;
-    padding: auto;
-    height: auto;
-    margin: auto;
-} */
+
 
 @media screen and ( max-width: 199px ) {
     img#profilePic { width: 80px;  margin: auto; }

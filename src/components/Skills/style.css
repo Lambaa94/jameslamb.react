@@ -4,14 +4,15 @@ img.icons {
     fill: black;
     filter: grayscale();
     padding: 0%;
-    margin: 0%;
+    margin: 3;
 }
 
 
 
 img.icons:hover, i:hover  {
 filter: contrast(500%);
-
+animation: pulse; 
+    animation-duration:1s;
 }
 
 

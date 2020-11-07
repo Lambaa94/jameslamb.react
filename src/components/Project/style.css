@@ -15,3 +15,8 @@ button:hover {
 img {
     box-shadow: 5px 5px 2px 2px slategray;;
 }
+
+.responsive:hover {
+    animation: tada; /* referring directly to the animation's @keyframe declaration */
+    animation-duration:1s;
+}

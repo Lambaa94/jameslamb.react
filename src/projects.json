@@ -23,7 +23,7 @@
         "id": 3,
         "title": "Stream-Saver",
         "url": "https://streamsaver.herokuapp.com/",
-        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/screencapture-stream-saver-herokuapp-2020-10-18-23_32_55%20copy.png?raw=true",
+        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/streamSaver.png?raw=true",
         "alt": "Stream Saver",
         "githubRepo": "https://github.com/Lambaa94/Stream-Saver",
         "description": "An application that lets the user search and save to a watch list any show or movie they'd like to stream. Uses Express-js, MySQL, and Passport."

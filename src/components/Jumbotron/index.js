@@ -17,7 +17,7 @@ const Wumbotron = () => {
       <br/>
       <Jumbotron fluid id="jumbo">
         <Container fluid>
-          <h1 id="name" className="animate__fadeIn">James Lamb</h1>
+          <h1 id="name" className="animate_animated animate__bounce">James Lamb</h1>
           <br/>
           <br/>
           <br/>

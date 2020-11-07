@@ -6,9 +6,15 @@
     font-size: medium;
     font-weight: 200;
     padding-left: 50px;
-    padding-right: 50px
+    padding-right: 50px;
+    box-shadow: 10px 10px black;
 }
 p, #aboutTitle {
     color: whitesmoke;
 }
 
+#summaryP:hover {
+        animation: pulse; 
+        animation-duration:1s;
+    
+}

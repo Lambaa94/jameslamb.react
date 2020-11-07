@@ -3,8 +3,13 @@
     vertical-align: center;
     text-align: center;
     width: auto;
-    background-color: grey;
-    
+    background-color: rgb(34, 22, 22);
+    box-shadow: 10px 10px rgb(57, 54, 54);
+}
+
+#jumbo:hover {
+    animation: pulse; 
+    animation-duration:1s;
 }
 
 #name, #title {

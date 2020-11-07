@@ -25,7 +25,7 @@ function Profile() {
 <br/>
 <br/>
 <br/>
-<i class="fas fa-city fa-3x"><h3>Living in New York City</h3></i>
+<i className="fas fa-city fa-3x"><h3>Living in New York City</h3></i>
 <br/>
 <br/>
 <br/>
@@ -33,7 +33,7 @@ function Profile() {
 <br/>
 <Row>
 <Col>
-<i class="fas fa-code fa-3x"><h3>MERN Language Stack</h3></i>
+<i className="fas fa-code fa-3x"><h3>MERN Language Stack</h3></i>
 </Col>
 </Row>
 <br/>
@@ -43,7 +43,7 @@ function Profile() {
 <br/>
 <Row>
 <Col>
-<i class="fas fa-university fa-3x"><h3>University of Pennsylvania Coding Bootcamp</h3></i>
+<i className="fas fa-university fa-3x"><h3>University of Pennsylvania Coding Bootcamp</h3></i>
 </Col>
 </Row>
 
