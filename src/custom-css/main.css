@@ -53,11 +53,11 @@ img {
     }
 
 @media screen and ( min-width: 539px ) and ( max-width: 691px ) {
-    img.responsive { width: 480px;  margin: auto; }
+    img.responsive { width: 480px!important;  margin: auto!important; }
     }
 
 @media screen and ( min-width: 692px ) and ( max-width: 887px ) {
-    img.responsive { width: 640px;  margin: auto; }
+    img.responsive { width: 640px!important;  margin: auto!important; }
     }
 
 @media screen and ( min-width: 888px )and ( max-width: 1024px ) {
