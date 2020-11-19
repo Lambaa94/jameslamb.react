@@ -1,4 +1,9 @@
-
+#profile {
+    border-radius: 30px;
+    -webkit-box-shadow: 0 8px 9px #393636, 0 8px 9px #393636;
+    -moz-box-shadow: 0 8px 9px #393636, 0 8px 9px #393636;
+    box-shadow:  0 8px 9px #393636, 0 8px 9px #393636;
+}
 
 @media screen and ( max-width: 199px ) {
     img#profilePic { width: 80px;  margin: auto; }

@@ -3,10 +3,12 @@
     padding-left: 5px;
     padding-right: 5px;
     background-color: rgb(34, 22, 22);
-    box-shadow: 10px 10px rgb(57, 54, 54);
     padding-top: 30px;
     padding-bottom: 30px;
-   
+    border-radius: 30px;
+    -webkit-box-shadow: 0 8px 9px #393636, 0 8px 9px #393636;
+    -moz-box-shadow: 0 8px 9px #393636, 0 8px 9px #393636;
+    box-shadow:  0 8px 9px #393636, 0 8px 9px #393636;
 }
 
 h1 {

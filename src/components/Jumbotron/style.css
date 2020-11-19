@@ -4,7 +4,10 @@
     text-align: center;
     width: auto;
     background-color: rgb(34, 22, 22);
-    box-shadow: 10px 10px rgb(57, 54, 54);
+    border-radius: 30px;
+    -webkit-box-shadow: 0 8px 9px #F0C98A, 0 8px 9px #F0C98A;
+    -moz-box-shadow: 0 8px 9px #F0C98A, 0 8px 9px #F0C98A;
+    box-shadow:  0 8px 9px #F0C98A, 0 8px 9px #F0C98A;
 }
 
 #jumbo:hover {

@@ -22,13 +22,9 @@
     color: white;
 }
 
-.flexWrap {
-    padding-top: 50px;
-    /* background: #ffffff; */
-    height: 100%;
-    display: flex;
-    flex-flow: row wrap;
-    /* padding: 20px; */
-    justify-content: space-around;
-    align-content: flex-start;
+.colorboi {
+    border-radius: 30px;
+    -webkit-box-shadow: 0 8px 9px #F0C98A, 0 8px 9px #F0C98A;
+    -moz-box-shadow: 0 8px 9px #F0C98A, 0 8px 9px #F0C98A;
+    box-shadow:  0 8px 9px #F0C98A, 0 8px 9px #F0C98A;
   }

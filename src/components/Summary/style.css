@@ -6,7 +6,10 @@
     font-weight: 200;
     padding-left: 50px;
     padding-right: 50px;
-    box-shadow: 10px 10px rgb(57, 54, 54);
+    border-radius: 30px;
+    -webkit-box-shadow: 0 8px 9px #393636, 0 8px 9px #393636;
+    -moz-box-shadow: 0 8px 9px #393636, 0 8px 9px #393636;
+    box-shadow:  0 8px 9px #393636, 0 8px 9px #393636;
 }
 p, #aboutTitle {
     color: whitesmoke;

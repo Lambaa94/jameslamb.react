@@ -9,8 +9,10 @@ body {
 
 img {
    
-    
-    margin: 20px;
+    border-radius: 30px;
+    -webkit-box-shadow: 0 8px 9px #393636, 0 8px 9px #393636;
+    -moz-box-shadow: 0 8px 9px #393636, 0 8px 9px #393636;
+    box-shadow:  0 8px 9px #393636, 0 8px 9px #393636;
     vertical-align: center;
     justify-content: center;
     text-align: center;
