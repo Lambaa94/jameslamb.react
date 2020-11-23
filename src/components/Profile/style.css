@@ -42,10 +42,15 @@
     }
 
 @media screen and ( min-width: 539px ) and ( max-width: 691px ) {
-    img#profilePic { width: 460px;  margin: auto; }
+    img#profilePic { width: 478px;  margin: auto; }
     }
 
-@media screen and ( min-width: 692px ) and ( max-width: 887px ) {
+@media screen and ( min-width: 692px ) and ( max-width: 773px ) {
+        img#profilePic { width: 480px!important;  margin: auto!important; }
+        }
+
+
+@media screen and ( min-width: 774px ) and ( max-width: 887px ) {
     img#profilePic { width: 640px;  margin: auto; }
     }
 
