@@ -43,7 +43,7 @@ img {
     }
 
 @media screen and ( min-width: 374px ) and ( max-width: 402px ) {
-    img.responsive { width: 320px;  margin: auto; }
+    img.responsive { width: 307px;  margin: auto; }
     }
 
 @media screen and ( min-width: 403px ) and ( max-width: 454px ) {
@@ -55,10 +55,14 @@ img {
     }
 
 @media screen and ( min-width: 539px ) and ( max-width: 691px ) {
-    img.responsive { width: 480px!important;  margin: auto!important; }
+    img.responsive { width: 470px!important;  margin: auto!important; }
     }
 
-@media screen and ( min-width: 692px ) and ( max-width: 887px ) {
+@media screen and ( min-width: 692px ) and ( max-width: 773px ) {
+        img.responsive { width: 470px!important;  margin: auto!important; }
+        }
+
+@media screen and ( min-width: 774px ) and ( max-width: 887px ) {
     img.responsive { width: 640px!important;  margin: auto!important; }
     }
 
