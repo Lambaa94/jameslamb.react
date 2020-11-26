@@ -30,7 +30,8 @@ function Contact() {
             <br />
             <br />
             <hr />
-            <h5 id="phone" >(646)-853-1534</h5>
+            <h5 id="phone">(646)-853-1534</h5>
+            <h5 id="phone">jameslamb13@gmail.com</h5>
         </Container>
 
     )

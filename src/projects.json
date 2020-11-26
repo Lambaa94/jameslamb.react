@@ -6,7 +6,7 @@
         "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/TableTurner.png?raw=true",
         "alt": "Table Turner",
         "githubRepo": "https://github.com/Lambaa94/Table-Turner",
-        "description": "This application is a fully integrated POS for restaurant groups that want a modern way of running their business. Currently in development stages."
+        "description": "This application is a fully integrated POS for restaurant groups that want a modern way of running their business. Currently in development stages. Made with React.js, MongoDB, React-Bootstrap, Express-js, Node.js and deployed on Heroku. Sample Accounts -> Wait Staff: TableTurnerWaiter Pass: TableTurnerWaiter123 | Manager: TableTurnerManager Pass: TableTurnerManager123 | Kitchen: TableTurnerKitchen Pass: TableTurnerKitchen123"
        
       },  
       {
@@ -16,27 +16,27 @@
         "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Screen%20Shot%202020-09-20%20at%205.09.57%20PM.png?raw=true",
         "alt": "Brewery Finder",
         "githubRepo": "https://github.com/Lambaa94/Brewery-Finder",
-        "description": "An application that will allow you to search for breweries by state and brewery type. Uses Yelp and Google maps to give you more information about that brewery."
+        "description": "An application that will allow you to search for breweries by state and brewery type. Uses Yelp and Google maps to give you more information about that brewery. Made with JavaScript, HTML5, CSS3, Google Maps API, Yelp API, BreweryDB API, jQuery and deployed on GH Pages."
         
       },
       {
         "id": 3,
-        "title": "Slurp-Da-Soup",
-        "url": "https://eat-da-soup.herokuapp.com/",
-        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Untitled.png?raw=true",
-        "alt": "Eat-Da-Soup",
-        "githubRepo": "https://github.com/Lambaa94/Soups",
-        "description": "An application that uses a database to store information and pull information. You can type in the name of a soup and transfer the soup to slurped by a button click. Deployed on Heroku."
-        
-      },
-      {
-        "id": 4,
         "title": "Stream-Saver",
         "url": "https://streamsaver.herokuapp.com/",
         "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/streamSaver.png?raw=true",
         "alt": "Stream Saver",
         "githubRepo": "https://github.com/Lambaa94/Stream-Saver",
-        "description": "An application that lets the user search and save to a watch list any show or movie they'd like to stream. Uses Express-js, MySQL, and Passport."
+        "description": "An application that lets the user search and save to a watch list any show or movie they'd like to stream. Uses Express-js, MySQL, and Passport. Made with JavaScript, jQuery, Passport, MySQL, Express-js, Node.js, Handlebars and deployed on Heroku. Sample Account -> Email: test@test.com Pass: test123"
+        
+      },
+      {
+        "id": 4,
+        "title": "Slurp-Da-Soup",
+        "url": "https://eat-da-soup.herokuapp.com/",
+        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Untitled.png?raw=true",
+        "alt": "Eat-Da-Soup",
+        "githubRepo": "https://github.com/Lambaa94/Soups",
+        "description": "An application that uses a database to store information and pull information. You can type in the name of a soup and transfer the soup to slurped by a button click. Made with JavaScript, Handlebars, jQuery, MySQL, and deployed on Heroku."
         
       },
       {
@@ -46,7 +46,7 @@
         "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Screen%20Shot%202020-09-19%20at%2012.43.49%20AM.png?raw=true",
         "alt": "Work Day Scheduler",
         "githubRepo": "https://github.com/Lambaa94/Work-Scheduler",
-        "description": "An application that is a nine to five work day scheduler that displays the current time and gives the user a visual experience on what time it is by color coding the past, present and future."
+        "description": "An application that is a nine to five work day scheduler that displays the current time and gives the user a visual experience on what time it is by color coding the past, present and future. Made with JavaScript, Moment.js, jQuery, HTML5, CSS3 and deployed on GH Pages."
         
       },
       {
@@ -56,7 +56,7 @@
         "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Screen%20Shot%202020-09-19%20at%2012.47.42%20AM.png?raw=true",
         "alt": "Password Generator",
         "githubRepo": "https://github.com/Lambaa94/Password-Gen",
-        "description": "An application that will prompt you with a series of questions to generate a random password that is displayed on the screen."
+        "description": "An application that will prompt you with a series of questions to generate a random password that is displayed on the screen. Made with HTML5, JavaScript and deployed on GH Pages."
         
       },
       {
@@ -66,7 +66,7 @@
         "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Screen%20Shot%202020-09-19%20at%2012.42.30%20AM.png?raw=true",
         "alt": "Weather Dashboard",
         "githubRepo": "https://github.com/Lambaa94/Weather-Dashboard",
-        "description": "An application that can take in a city and display the current weather. It will also give you the five day forecast and save searched cities in local storage."
+        "description": "An application that can take in a city and display the current weather. It will also give you the five day forecast and save searched cities in local storage. Made with JavaScript, HTML5, CSS3, Moment.js, Weather-API, jQuery and deployed on GH Pages."
         
       },
       {
@@ -76,7 +76,7 @@
         "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Screen%20Shot%202020-09-19%20at%2012.42.55%20AM.png?raw=true",
         "alt": "API Quiz",
         "githubRepo": "https://github.com/Lambaa94/Api-Quiz",
-        "description": "An application that will take you through 10 questions of JavaScript trivia and will log your score in local storage with a name attached to it. The score is based on how much time you had left and questions answered right."
+        "description": "An application that will take you through 10 questions of JavaScript trivia and will log your score in local storage with a name attached to it. The score is based on how much time you had left and questions answered right. Made with JavaScript, jQuery, HTML5, CSS3, and deployed on GH Pages."
         
       }
       
