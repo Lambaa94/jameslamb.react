@@ -20,3 +20,8 @@ img {
     animation: tada; /* referring directly to the animation's @keyframe declaration */
     animation-duration:1s;
 }
+
+#fontChange {
+    color: black;
+    font-size: 18px;
+}

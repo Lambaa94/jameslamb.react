@@ -23,7 +23,7 @@ function Project(props) {
     <br />
         <Row>
             <Col>
-    <h5>{props.description}</h5>
+    <p id="fontChange">{props.description}</p>
     <br />
     <br />
             </Col>
