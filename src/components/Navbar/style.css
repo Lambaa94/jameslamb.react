@@ -1,13 +1,20 @@
-.nav-item > .active {
+/* .nav-item > .active {
     border-bottom: 1px solid #333;
     color: white;
-}
+} */
 .nav-item {
     color: white;
     padding: 5px;
 }
 
 .nav-item:hover {
-    border-bottom: 1px solid whitesmoke;
+    box-shadow: 2px 2px 2px 2px;
+    border-radius: 5px;
     cursor: pointer;
+}
+
+.nav-item:active {
+    box-shadow: .6px .6px .6px .6px;
+    cursor: pointer;
+    
 }
