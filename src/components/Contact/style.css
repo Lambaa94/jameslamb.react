@@ -17,8 +17,9 @@
 
 .bottomIcons {
   margin-left: 40px;
+  
 }
 .bottomIcons:hover {
-    color: white;
+    color: white!important;
 }
 
