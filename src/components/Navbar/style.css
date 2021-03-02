@@ -4,7 +4,7 @@
 }
 .nav-item {
     color: whitesmoke;
-    opacity: 65%;
+    /* opacity: 65%; */
     padding: 15px;
     text-align: center;
     margin: auto;
@@ -13,7 +13,7 @@
 
 .nav-item:hover {
     color: white;
-    opacity: 100%;
+    /* opacity: 100%; */
     border: 1px solid;
     border-color: grey;
     border-radius: 5px;
@@ -22,7 +22,7 @@
 
 .nav-item:active {
     color: white;
-    opacity: 100%;
+    /* opacity: 100%; */
     border-color: white;
     cursor: pointer;
     
