@@ -1,8 +1,8 @@
 {
-  "name": "practiceapp",
+  "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "jameslamb.dev",
+  "homepage": "https://jameslamb.dev",
   "dependencies": {
     "animate.css": "^4.1.1",
     "bootstrap": "^4.5.3",
