@@ -5,13 +5,14 @@ import "./style.css";
 function Navbar() {
     
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top sticky-top">
-            <a className="navbar-brand">James Lamb</a>
+      <header>
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top sticky-top sticky">
+            <h1 className="navbar-brand title">James Lamb</h1>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="fas fa-hamburger fa-2x"></span>
             </button>
-            <div className="collapse navbar-collapse nav justify-content-end" id="navbarNav">
+            <div className="collapse navbar-collapse nav justify-content-end sticky" id="navbarNav">
                 <ul className="navbar-nav">
                     <li className="nav-item">
                         <Link
@@ -68,7 +69,7 @@ function Navbar() {
                 </ul>
             </div>
         </nav>
-
+        </header>
     )
 }
 
