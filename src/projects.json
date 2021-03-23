@@ -21,7 +21,7 @@
       },
       {
         "id": 3,
-        "title": "Stream-Saver",
+        "title": "Stream Saver",
         "url": "https://streamsaver.herokuapp.com/",
         "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/streamSaver.png?raw=true",
         "alt": "Stream Saver",
@@ -31,16 +31,26 @@
       },
       {
         "id": 4,
-        "title": "Slurp-Da-Soup",
-        "url": "https://eat-da-soup.herokuapp.com/",
-        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Untitled.png?raw=true",
-        "alt": "Eat-Da-Soup",
-        "githubRepo": "https://github.com/Lambaa94/Soups",
-        "description": "An application that uses a database to store information and pull information. You can type in the name of a soup and transfer the soup to slurped by a button click. Made with JavaScript, Handlebars, jQuery, MySQL, and deployed on Heroku."
+        "title": "Acting Portfolio",
+        "url": "https://lambaa94.github.io/Acting-Portfolio",
+        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/acting-portfolio.png?raw=true",
+        "alt": "Actors Portfolio Page",
+        "githubRepo": "https://github.com/Lambaa94/Acting-Portfolio",
+        "description": "A React application built for an Actor that has all the necessary components in an easy to use, organized manner. Made with React, Express, Node, Firebase, Nodemailer, React-Bootstrap and deployed on GH Pages. (client pending information)"
         
       },
       {
         "id": 5,
+        "title": "Slurp Da Soup",
+        "url": "https://eat-da-soup.herokuapp.com/",
+        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Untitled.png?raw=true",
+        "alt": "Eat-Da-Soup",
+        "githubRepo": "https://github.com/Lambaa94/Soups",
+        "description": "An application that uses a database to store information and pull information. You can type in the name of a soup and transfer the soup to slurped by a button click. Made with JavaScript, Express, Node, Handlebars, jQuery, MySQL, and deployed on Heroku."
+        
+      },
+      {
+        "id": 6,
         "title": "Work Day Scheduler",
         "url": "https://lambaa94.github.io/Work-Scheduler/",
         "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Screen%20Shot%202020-09-19%20at%2012.43.49%20AM.png?raw=true",
@@ -50,7 +60,7 @@
         
       },
       {
-        "id":  6,
+        "id":  7,
         "title": "Password Generator",
         "url": "https://lambaa94.github.io/Password-Gen/",
         "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Screen%20Shot%202020-09-19%20at%2012.47.42%20AM.png?raw=true",
@@ -60,23 +70,13 @@
         
       },
       {
-        "id": 7,
+        "id": 8,
         "title": "Weather Dashboard",
         "url": "https://lambaa94.github.io/Weather-Dashboard/",
         "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Screen%20Shot%202020-09-19%20at%2012.42.30%20AM.png?raw=true",
         "alt": "Weather Dashboard",
         "githubRepo": "https://github.com/Lambaa94/Weather-Dashboard",
         "description": "An application that can take in a city and display the current weather. It will also give you the five day forecast and save searched cities in local storage. Made with JavaScript, HTML5, CSS3, Moment.js, Weather-API, jQuery and deployed on GH Pages."
-        
-      },
-      {
-        "id": 8,
-        "title": "API Quiz",
-        "url": "https://lambaa94.github.io/Api-Quiz/",
-        "image": "https://github.com/Lambaa94/jameslamb.react/blob/main/public/assets/images/Screen%20Shot%202020-09-19%20at%2012.42.55%20AM.png?raw=true",
-        "alt": "API Quiz",
-        "githubRepo": "https://github.com/Lambaa94/Api-Quiz",
-        "description": "An application that will take you through 10 questions of JavaScript trivia and will log your score in local storage with a name attached to it. The score is based on how much time you had left and questions answered right. Made with JavaScript, jQuery, HTML5, CSS3, and deployed on GH Pages."
         
       }
       
