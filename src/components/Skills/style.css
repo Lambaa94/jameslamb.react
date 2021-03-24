@@ -24,3 +24,46 @@ animation: pulse;
     animation: pulse; 
     animation-duration:2s;
 }
+.devicon-firebase-plain:hover {
+    color: #F58221;
+}
+
+.devicon-visualstudio-plain:hover {
+    color: #0087D2
+}
+
+.devicon-chrome-plain:hover {
+    color: #45219C
+}
+
+.fa-gitlab:hover {
+    color: #DB4228
+}
+
+.fa-git:hover {
+    color: #E94D31
+}
+
+.fa-react:hover {
+    color: #5ED4F3
+}
+
+.fa-node:hover {
+    color: #70A660
+}
+
+.fa-js-square:hover {
+    color: #EFD91D
+}
+
+.fa-bootstrap:hover {
+    color: #533B79
+}
+
+.fa-css3-alt:hover {
+    color: #1E90FF
+}
+
+.fa-html5:hover {
+    color: #DD4B24
+}
